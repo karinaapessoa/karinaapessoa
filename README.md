@@ -1,4 +1,4 @@
-### Olá! Eu a Karina Pessoa, biomédica emstre enciências e futura desenvolvedora!
+### Olá! Eu a Karina Pessoa, biomédica e futura desenvolvedora!
 
 <div align="center">
   <a href="https://github.com/karinaapessoa">
